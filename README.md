@@ -1,1 +1,1 @@
-# Algorithms-and-Data-Structures---Scripting
+# Algorithms-and-Data-Structures-Scripting
